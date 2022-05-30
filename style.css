@@ -1,5 +1,6 @@
 /* Styles reset */
-.incomplete-tasks, .completed-tasks {
+.incomplete-tasks,
+.completed-tasks {
   margin: 0;
   padding: 0;
 }
@@ -8,7 +9,9 @@
   list-style: none;
 }
 
-.task-inp, .check, .button {
+.task-inp,
+.check,
+.button {
   outline: none;
 }
 
@@ -73,7 +76,8 @@
 }
 
 /* Heading */
-.title, .new-item {
+.title, 
+.new-item {
   color: #333;
   font-weight: 700;
   font-size: 15px;
