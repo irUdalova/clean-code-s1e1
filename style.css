@@ -76,8 +76,7 @@
 }
 
 /* Heading */
-.title, 
-.new-item {
+.title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
